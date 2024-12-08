@@ -8,8 +8,8 @@ Final project
 <br><hr>
 
 Contents
-<ol>Introduction</ol>
-<ol>Data Collection
+<ol><a href="https://github.com/sanjithsmurthy/Electricity_Demand__Projection_Using_AI/blob/main/README.md">Introduction</a></ol>
+<ol><a href="">Data Collection</a>
 <ol><a href="https://raw.githubusercontent.com/sanjithsmurthy/Electricity_Demand__Projection_Using_AI/refs/heads/main/delhi_load_data_2022_Final.csv">Electricity Demand Data</a></ol>
 <ol><a href="https://github.com/sanjithsmurthy/Electricity_Demand__Projection_Using_AI/blob/main/delhi_weather_data_2022_Final.csv">Weather Data</a></ol></ol>
 <ol>Feature Engineering</ol>
