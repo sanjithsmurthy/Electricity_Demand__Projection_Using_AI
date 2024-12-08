@@ -10,7 +10,7 @@ Final project
 Contents
 <ol>Introduction</ol>
 <ol>Data Collection
-<ol>Electricity Demand Data</ol>
+<ol><a href="https://raw.githubusercontent.com/sanjithsmurthy/Electricity_Demand__Projection_Using_AI/refs/heads/main/delhi_load_data_2022_Final.csv">Electricity Demand Data</a></ol>
 <ol>Weather Data</ol></ol>
 <ol>Feature Engineering</ol>
 <ol>Designing Models</ol>
